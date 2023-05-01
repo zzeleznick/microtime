@@ -1,0 +1,1 @@
+{"name":"microtime","littleEndian":true,"symbols":{"now":{"parameters":[],"result":"u64","nonBlocking":false}},"typeDefs":{},"tsTypes":{}}
