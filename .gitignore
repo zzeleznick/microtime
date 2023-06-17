@@ -14,3 +14,4 @@ Cargo.lock
 # Target release
 !target/release/libmicrotime.dylib
 !target/release/libmicrotime_arm64.dylib
+!target/release/libmicrotime.so
